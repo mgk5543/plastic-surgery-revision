@@ -3,7 +3,7 @@ a{
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5vw;
   color: #A6CFD5;
-  background-color: #3A2E39;
+  background-color: #423545;
   border-radius: 20px;
   padding: 15px;
   margin: 10px;
@@ -38,7 +38,7 @@ h1{
   font-family: 'Bebas Neue', cursive;
   font-size: 11vw;
   margin: 0px;
-  color: #3A2E39;
+  color: #443648;
   line-height: 1;
   text-shadow: 10px 10px #FFD60A;
 }
@@ -68,7 +68,7 @@ h2{
 }
 
 body{
-  background-color: #3A2E39;
+  background-color: #281E28;
   margin: 0;
   padding: 0;
   border: 0;
