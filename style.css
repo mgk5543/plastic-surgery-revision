@@ -1,0 +1,153 @@
+a{
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5vw;
+  color: #A6CFD5;
+  background-color: #3A2E39;
+  border-radius: 20px;
+  padding: 15px;
+  margin: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #A6CFD5;
+  box-sizing: border-box;
+}
+a:hover{
+  background-color: #1E555C;
+}
+#menu{
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  width: 93vw;
+  margin: 40px;
+  margin-right: 20px;
+  position: fixed;
+  z-index: 100;
+}
+
+
+#homeBg{
+  background-image: url("Beauty+Recovery+Room+010_23+years+old_Seoul+South+Korea_2011.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+}
+
+h1{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 11vw;
+  margin: 0px;
+  color: #3A2E39;
+  line-height: 1;
+  text-shadow: 10px 10px #FFD60A;
+}
+
+h2{
+  margin: 1vw;
+  font-family: 'Montserrat', sans-serif;
+  color: #3A2E39;
+  text-align: right;
+  float: left;
+}
+
+.subTitle{
+  font-size: 1.2vw;
+  text-align: right;
+  margin: 15px;
+}
+.header{
+  width: 84vw;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+body{
+  background-color: #3A2E39;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.blog-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 2;
+  position: relative;
+  top: 12vw;
+  height: 20vw;
+  background-color: #F15152;
+}
+
+.content{
+  margin: 0 auto;
+  top: 80px;
+  position: relative;
+  width: 70vw;
+}
+
+h3{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 6vw;
+  color: #FFD60A;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6vw;
+  color: #A6CFD5;
+  line-height: 24pt;
+}
+.history-text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.4vw;
+  color: #A6CFD5;
+  line-height: 24pt;
+  margin: 2vw;
+}
+
+.history-block{
+  display: flex;
+  flex-direction: row;
+  width: 80vw;
+  margin: 5vw;
+}
+.history-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20vw;
+}
+
+.history-dates{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div img{
+  width: 20vw;
+  height: 16vw;
+  object-fit: cover;
+  margin: 5vw;
+  float: right;
+}
+h4{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 12vw;
+  color: #FFD60A;
+  margin:0;
+}
+
+
+.problem-block{
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
